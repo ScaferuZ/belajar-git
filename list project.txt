@@ -1,0 +1,5 @@
+- Smansa Website
+- Startup web application
+- Startup mobile application
+- House manager
+- Pc Manager

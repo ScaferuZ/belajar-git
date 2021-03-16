@@ -1,6 +1,6 @@
 - Dapat master basic Calisthenics
-- Shredded di bulan September
 - Membaca 10 Buku
+- Mengerjakan 5 Project
 - Developing a new me!
 - Mengetahui Fundamental HTML CSS dan JS
 - Sudah dapat menggunakan Framework CSS dan JS
@@ -8,3 +8,4 @@
 - Mewakili Indonesia di IOI dan mendapatkan gold medal
 - Having a good relationship
 - Masuk SNMPTN
+
